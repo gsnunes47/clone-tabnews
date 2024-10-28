@@ -1,0 +1,7 @@
+root = true           #define que essa é a raiz do editor,
+                      #logo os arquivos sem mudanças próprias 
+                      #seguiram as listadas neste arquivo
+
+[*]                   #define que tipo de arquivo ira mudar
+indent_style = space  
+indent_size = 2
